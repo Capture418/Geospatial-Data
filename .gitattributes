@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 NUTS_Level_1_(January_2018)_Boundaries.geojson filter=lfs diff=lfs merge=lfs -text
+NUTS_Level_3_(January_2018)_Boundaries.geojson filter=lfs diff=lfs merge=lfs -text
