@@ -43,5 +43,3 @@ def call2016():
 
     df_2016 = df_2016.rename({'nuts218nm':'old_nuts218nm','true_loc':'nuts218nm'}, axis = 1)
     return df_2016
-
-
