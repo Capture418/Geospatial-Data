@@ -1,0 +1,5 @@
+1. Find geometry Local Authority data
+2. Make sure it is able to match with the energy datax
+3. Write a piece of code (for loop?) that averages energy efficiency and combines it in a new csv with the LA code
+4. merge LA codes of new energy LA data frame and geometry LA data frame.
+5. plot new dataframe on LA map of UK using geopandas
